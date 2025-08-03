@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-portailclient-dev-cb235-authRole",
+      "UnauthRoleArn": "arn:aws:iam::319641749939:role/amplify-portailclient-dev-cb235-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::319641749939:role/amplify-portailclient-dev-cb235-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-portailclient-dev-cb235-deployment",
+      "UnauthRoleName": "amplify-portailclient-dev-cb235-unauthRole",
+      "StackName": "amplify-portailclient-dev-cb235",
+      "StackId": "arn:aws:cloudformation:eu-west-3:319641749939:stack/amplify-portailclient-dev-cb235/7442a9b0-6cbd-11f0-a91b-0e429b238a4d",
+      "AmplifyAppId": "d3kssavsz3lxdu"
+    }
+  }
+}
